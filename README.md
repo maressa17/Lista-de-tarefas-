@@ -1,2 +1,2 @@
-# Lista-de-tarefas-
+# Lista-de-tarefas
 Uma software para listar suas tarefas, facilitando o seu dia a dia. Exemplos de listas que podem ser feitas: compras no supermercado, afazeres do dia, tarefas de trabalho, etc...
